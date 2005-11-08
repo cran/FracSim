@@ -1,5 +1,6 @@
 \name{fracsim.1d}
 \alias{fracsim.1d}
+\encoding{latin1}
 \title{Simulation of 1D fractional and multifractional Lévy motions}
 \description{
  The function simulates 1D fractional and multifractional motions 
